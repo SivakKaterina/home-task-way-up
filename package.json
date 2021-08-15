@@ -1,0 +1,23 @@
+{
+  "name": "home-task-way-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivakKaterina/home-task-way-up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SivakKaterina/home-task-way-up/issues"
+  },
+  "homepage": "https://github.com/SivakKaterina/home-task-way-up#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
